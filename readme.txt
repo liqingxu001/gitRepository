@@ -18,5 +18,5 @@ create a new branch is quick And simple
 =======
 create a new branch is quick And simple
 >>>>>>> feature1
-add a new branch
+add a new branch now
 
