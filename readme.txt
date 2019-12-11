@@ -12,5 +12,5 @@ iiiiiiiiiiiiiiiii
 zzzzzzzzzzzzzzzzzzzzz
 yyyyyyyyyyyyyyyyyyyyyy
 append gpl
-git tracks changes
+git tracks changes of files
 
