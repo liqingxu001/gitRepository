@@ -13,5 +13,9 @@ zzzzzzzzzzzzzzzzzzzzz
 yyyyyyyyyyyyyyyyyyyyyy
 append gpl
 git tracks changes of files
-create a new branch is quick & simple
+<<<<<<< HEAD
+create a new branch is quick And simple
+=======
+create a new branch is quick And simple
+>>>>>>> feature1
 
